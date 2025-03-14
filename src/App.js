@@ -427,6 +427,7 @@ function App() {
           © {new Date().getFullYear()} Social Media Strategy Generator | By{" "}
           <a
             target="_blank"
+            rel="noreferrer"
             href="https://viralmarketingstars.com"
             style={{
               color: "#E11964",
